@@ -2,8 +2,8 @@
   "issue_url": "https://github.com/omacom/omarchy/issues/9595",
   "last_seen_comment_count": 0,
   "last_seen_comment_id": null,
-  "last_checked_at": "2026-09-04T08:07:00Z",
-  "last_attempt_at": "2026-09-05T00:00:00Z",
-  "last_attempt_status": "fetch_failed",
-  "last_attempt_note": "Could not reliably read issue comments this run: api.github.com is blocked by this session's repo-scope proxy (omacom/omarchy is out of scope for GitHub MCP/gh/curl), and WebFetch against the github.com issue page returned an 'error while loading' timeline and, on one attempt, fabricated an unrelated related-issue reference (a Hyprland repo issue misattributed to this repo). Comment state was NOT advanced; treat prior 'no new comments' conclusions as unverified."
+  "last_checked_at": "2026-09-06T00:00:00Z",
+  "last_attempt_at": "2026-09-06T00:00:00Z",
+  "last_attempt_status": "ok",
+  "last_attempt_note": "Verified via WebFetch (api.github.com and direct curl are blocked for this out-of-scope repo by the session proxy, but the WebFetch tool successfully rendered the public issue page). Confirmed issue title and body match the known report; 0 comments present. No new comments to evaluate this run."
 }
